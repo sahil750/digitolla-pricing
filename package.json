@@ -1,6 +1,5 @@
-
 {
-  "name": "digitolla-pricing",
+  "name": "digitolla-final",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,6 +10,7 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "framer-motion": "^10.12.16"
   }
 }
